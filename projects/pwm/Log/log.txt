@@ -1,0 +1,141 @@
+Sun Sep 12 23:32:42 2021:	* -----/|-------------------------------------------------------------------- *
+Sun Sep 12 23:32:42 2021:	*     / |__                                                                   *
+Sun Sep 12 23:32:42 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Sun Sep 12 23:32:42 2021:	*      | /                                                                    *
+Sun Sep 12 23:32:42 2021:	* -----|/-------------------------------------------------------------------- *
+Sun Sep 12 23:32:42 2021:	*
+Sun Sep 12 23:32:42 2021:	* Evaluating triggers...done
+Sun Sep 12 23:32:42 2021:	* Checking for available FET debuggers: 
+Sun Sep 12 23:32:43 2021:	* Found USB FET @ HID0026:COM10 <- Selected
+Sun Sep 12 23:32:43 2021:	* Initializing interface @ HID0026:COM10...done
+Sun Sep 12 23:32:43 2021:	* Checking firmware compatibility: 
+Sun Sep 12 23:32:43 2021:	* FET firmware is up to date.
+Sun Sep 12 23:32:43 2021:	* Reading FW version...
+Sun Sep 12 23:32:43 2021:	* Debugger does not support target voltages other than 3000 mV!
+Sun Sep 12 23:32:43 2021:	* Setting VCC to 3000 mV...done
+Sun Sep 12 23:32:43 2021:	* Accessing device...done
+Sun Sep 12 23:32:43 2021:	* Reading device information...done
+Sun Sep 12 23:32:43 2021:	* Unlocking BSL memory...done
+Sun Sep 12 23:32:43 2021:	* Unlocking Info Memory A...done
+Sun Sep 12 23:32:43 2021:	* Loading file into device...done
+Sun Sep 12 23:32:43 2021:	* Verifying memory (pwm.hex)...done
+Sun Sep 12 23:32:44 2021:	* 
+Sun Sep 12 23:32:44 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:32:44 2021:	* Arguments   : -w pwm.hex -v -b -u -z[VCC] 
+Sun Sep 12 23:32:44 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:32:44 2021:	* Driver      : loaded
+Sun Sep 12 23:32:44 2021:	* Dll Version : 20409001
+Sun Sep 12 23:32:44 2021:	* FwVersion   : 30394216
+Sun Sep 12 23:32:44 2021:	* Interface   : TIUSB
+Sun Sep 12 23:32:44 2021:	* HwVersion   : E 2.0
+Sun Sep 12 23:32:44 2021:	* JTAG Mode   : AUTO
+Sun Sep 12 23:32:44 2021:	* Device      : MSP430G2xx3
+Sun Sep 12 23:32:44 2021:	* EEM         : Level 1, ClockCntrl 1
+Sun Sep 12 23:32:44 2021:	* Erase Mode  : ERASE_ALL
+Sun Sep 12 23:32:44 2021:	* Prog.File   : pwm.hex
+Sun Sep 12 23:32:44 2021:	* Verified    : TRUE
+Sun Sep 12 23:32:44 2021:	* BSL Unlock  : TRUE
+Sun Sep 12 23:32:44 2021:	* InfoA Access: TRUE
+Sun Sep 12 23:32:44 2021:	* VCC ON      : 3000 mV
+Sun Sep 12 23:32:44 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:32:44 2021:	* Starting target code execution...done
+Sun Sep 12 23:32:44 2021:	* Disconnecting from device...done
+Sun Sep 12 23:32:44 2021:	* 
+Sun Sep 12 23:32:44 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:32:44 2021:	* Driver      : closed (No error)
+Sun Sep 12 23:32:44 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:32:44 2021:	*/
+Sun Sep 12 23:39:30 2021:	* -----/|-------------------------------------------------------------------- *
+Sun Sep 12 23:39:30 2021:	*     / |__                                                                   *
+Sun Sep 12 23:39:30 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Sun Sep 12 23:39:30 2021:	*      | /                                                                    *
+Sun Sep 12 23:39:30 2021:	* -----|/-------------------------------------------------------------------- *
+Sun Sep 12 23:39:30 2021:	*
+Sun Sep 12 23:39:30 2021:	* Evaluating triggers...done
+Sun Sep 12 23:39:30 2021:	* Checking for available FET debuggers: 
+Sun Sep 12 23:39:30 2021:	* Found USB FET @ HID0026:COM10 <- Selected
+Sun Sep 12 23:39:30 2021:	* Initializing interface @ HID0026:COM10...done
+Sun Sep 12 23:39:30 2021:	* Checking firmware compatibility: 
+Sun Sep 12 23:39:30 2021:	* FET firmware is up to date.
+Sun Sep 12 23:39:30 2021:	* Reading FW version...
+Sun Sep 12 23:39:30 2021:	* Debugger does not support target voltages other than 3000 mV!
+Sun Sep 12 23:39:30 2021:	* Setting VCC to 3000 mV...done
+Sun Sep 12 23:39:30 2021:	* Accessing device...done
+Sun Sep 12 23:39:30 2021:	* Reading device information...done
+Sun Sep 12 23:39:30 2021:	* Unlocking BSL memory...done
+Sun Sep 12 23:39:30 2021:	* Unlocking Info Memory A...done
+Sun Sep 12 23:39:30 2021:	* Loading file into device...done
+Sun Sep 12 23:39:31 2021:	* Verifying memory (pwm.hex)...done
+Sun Sep 12 23:39:31 2021:	* 
+Sun Sep 12 23:39:31 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:39:31 2021:	* Arguments   : -w pwm.hex -v -b -u -z[VCC] 
+Sun Sep 12 23:39:31 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:39:31 2021:	* Driver      : loaded
+Sun Sep 12 23:39:31 2021:	* Dll Version : 20409001
+Sun Sep 12 23:39:31 2021:	* FwVersion   : 30394216
+Sun Sep 12 23:39:31 2021:	* Interface   : TIUSB
+Sun Sep 12 23:39:31 2021:	* HwVersion   : E 2.0
+Sun Sep 12 23:39:31 2021:	* JTAG Mode   : AUTO
+Sun Sep 12 23:39:31 2021:	* Device      : MSP430G2xx3
+Sun Sep 12 23:39:31 2021:	* EEM         : Level 1, ClockCntrl 1
+Sun Sep 12 23:39:31 2021:	* Erase Mode  : ERASE_ALL
+Sun Sep 12 23:39:31 2021:	* Prog.File   : pwm.hex
+Sun Sep 12 23:39:31 2021:	* Verified    : TRUE
+Sun Sep 12 23:39:31 2021:	* BSL Unlock  : TRUE
+Sun Sep 12 23:39:31 2021:	* InfoA Access: TRUE
+Sun Sep 12 23:39:31 2021:	* VCC ON      : 3000 mV
+Sun Sep 12 23:39:31 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:39:31 2021:	* Starting target code execution...done
+Sun Sep 12 23:39:31 2021:	* Disconnecting from device...done
+Sun Sep 12 23:39:31 2021:	* 
+Sun Sep 12 23:39:31 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:39:31 2021:	* Driver      : closed (No error)
+Sun Sep 12 23:39:31 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:39:31 2021:	*/
+Sun Sep 12 23:40:14 2021:	* -----/|-------------------------------------------------------------------- *
+Sun Sep 12 23:40:14 2021:	*     / |__                                                                   *
+Sun Sep 12 23:40:14 2021:	*    /_   /   MSP Flasher v1.3.20                                             *
+Sun Sep 12 23:40:14 2021:	*      | /                                                                    *
+Sun Sep 12 23:40:14 2021:	* -----|/-------------------------------------------------------------------- *
+Sun Sep 12 23:40:14 2021:	*
+Sun Sep 12 23:40:14 2021:	* Evaluating triggers...done
+Sun Sep 12 23:40:14 2021:	* Checking for available FET debuggers: 
+Sun Sep 12 23:40:14 2021:	* Found USB FET @ HID0026:COM10 <- Selected
+Sun Sep 12 23:40:15 2021:	* Initializing interface @ HID0026:COM10...done
+Sun Sep 12 23:40:15 2021:	* Checking firmware compatibility: 
+Sun Sep 12 23:40:15 2021:	* FET firmware is up to date.
+Sun Sep 12 23:40:15 2021:	* Reading FW version...
+Sun Sep 12 23:40:15 2021:	* Debugger does not support target voltages other than 3000 mV!
+Sun Sep 12 23:40:15 2021:	* Setting VCC to 3000 mV...done
+Sun Sep 12 23:40:15 2021:	* Accessing device...done
+Sun Sep 12 23:40:15 2021:	* Reading device information...done
+Sun Sep 12 23:40:15 2021:	* Unlocking BSL memory...done
+Sun Sep 12 23:40:15 2021:	* Unlocking Info Memory A...done
+Sun Sep 12 23:40:15 2021:	* Loading file into device...done
+Sun Sep 12 23:40:15 2021:	* Verifying memory (pwm.hex)...done
+Sun Sep 12 23:40:16 2021:	* 
+Sun Sep 12 23:40:16 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:40:16 2021:	* Arguments   : -w pwm.hex -v -b -u -z[VCC] 
+Sun Sep 12 23:40:16 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:40:16 2021:	* Driver      : loaded
+Sun Sep 12 23:40:16 2021:	* Dll Version : 20409001
+Sun Sep 12 23:40:16 2021:	* FwVersion   : 30394216
+Sun Sep 12 23:40:16 2021:	* Interface   : TIUSB
+Sun Sep 12 23:40:16 2021:	* HwVersion   : E 2.0
+Sun Sep 12 23:40:16 2021:	* JTAG Mode   : AUTO
+Sun Sep 12 23:40:16 2021:	* Device      : MSP430G2xx3
+Sun Sep 12 23:40:16 2021:	* EEM         : Level 1, ClockCntrl 1
+Sun Sep 12 23:40:16 2021:	* Erase Mode  : ERASE_ALL
+Sun Sep 12 23:40:16 2021:	* Prog.File   : pwm.hex
+Sun Sep 12 23:40:16 2021:	* Verified    : TRUE
+Sun Sep 12 23:40:16 2021:	* BSL Unlock  : TRUE
+Sun Sep 12 23:40:16 2021:	* InfoA Access: TRUE
+Sun Sep 12 23:40:16 2021:	* VCC ON      : 3000 mV
+Sun Sep 12 23:40:16 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:40:16 2021:	* Starting target code execution...done
+Sun Sep 12 23:40:16 2021:	* Disconnecting from device...done
+Sun Sep 12 23:40:16 2021:	* 
+Sun Sep 12 23:40:16 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:40:16 2021:	* Driver      : closed (No error)
+Sun Sep 12 23:40:16 2021:	* ----------------------------------------------------------------------------
+Sun Sep 12 23:40:16 2021:	*/
